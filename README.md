@@ -1,1 +1,1 @@
-# wheel-dialog
+# 简单的Dialog组件
